@@ -1,0 +1,2 @@
+# curriculo
+Currículo em português
